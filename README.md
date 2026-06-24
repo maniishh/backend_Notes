@@ -112,22 +112,22 @@ Includes:
 # 🖼️ Notes Preview
 
 
-![Backend Fundamentals](./scrnsht/1.png)
+![Backend Fundamentals](scrnsht/1.png)
 
 ---
 
 ## Role Based Access Control (RBAC)
-![RBAC](./scrnsht/20_rbac_roles.png)
+![RBAC](scrnsht/20_rbac_roles.png)
 
 ---
 
 
-![MVC Architecture](./scrnsht/21_mvc.png)
+![MVC Architecture](scrnsht/21_mvc.png)
 
 ---
 
 
-![Advanced Notes](./scrnsht/page-110.jpg)
+![Advanced Notes](scrnsht/page-110.jpg)
 
 
 ---
